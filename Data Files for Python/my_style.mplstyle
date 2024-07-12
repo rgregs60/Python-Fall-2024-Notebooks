@@ -1,0 +1,5 @@
+axes.titlesize : 18
+axes.labelsize : 14
+figure.facecolor : white
+grid.color : gray
+grid.linestyle : --
