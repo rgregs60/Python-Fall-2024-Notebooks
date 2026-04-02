@@ -1,5 +1,6 @@
 {
     "recommendations": [
-        "reditorsupport.r"
+        "reditorsupport.r",
+        "anthropic.claude-code"
     ]
 }
